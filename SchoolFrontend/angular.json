@@ -27,6 +27,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/mdb-angular-ui-kit/css/mdb.min.css",
               "@angular/material/prebuilt-themes/deeppurple-amber.css",
               "node_modules/aos/dist/aos.css",
               "src/styles.css"
@@ -88,6 +89,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/mdb-angular-ui-kit/css/mdb.min.css",
               "@angular/material/prebuilt-themes/deeppurple-amber.css",
               "src/styles.css",
               "node_modules/animate.css/animate.css",
@@ -110,39 +112,3 @@
     "analytics": false
   }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
