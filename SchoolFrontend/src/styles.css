@@ -1,0 +1,30 @@
+/* You can add global styles to this file, and also import other style files */
+
+/* All @import rules must come first */
+@import '@fortawesome/fontawesome-free/css/all.css';
+@import 'mdb-angular-ui-kit/assets/scss/mdb.scss';
+
+
+html, body {
+  height: 100%;
+  font-size: 16px;
+  background-color: rgb(236, 232, 232);
+}
+
+body {
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.full-width {
+  width: 80%;
+}
+
+/* ::ng-deep is deprecated, consider using :host ::ng-deep or a global style if possible for new code */
+::ng-deep .mdc-notched-outline__notch {
+  border-right: none !important;
+}
