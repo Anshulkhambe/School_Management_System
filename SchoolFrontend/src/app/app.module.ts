@@ -23,18 +23,18 @@ import { AdminComponent } from './Component/admin/admin.component';
 import { DashboardComponent } from './Component/admin/dashboard/dashboard.component';
 import { AddstudentComponent } from './Component/admin/addstudent/addstudent.component';
 import {MatSnackBarModule} from '@angular/material/snack-bar';
-import { AddteacherComponent } from './component/admin/addteacher/addteacher.component';
+import { AddteacherComponent } from './Component/admin/addteacher/addteacher.component';
 import { DisplaystudentComponent } from './Component/admin/displaystudent/displaystudent.component';
 import { DisplayteachersComponent } from './Component/admin/displayteachers/displayteachers.component';
 import { ClasslistComponent } from './Component/admin/classlist/classlist.component';
 import { DisplayclassinfoComponent } from './Component/admin/displayclassinfo/displayclassinfo.component';
 import { StaffattendanceComponent } from './Component/admin/staffattendance/staffattendance.component';
 import { ExamsComponent } from './Component/admin/exams/exams.component';
-import { NewExamComponent } from './Component/admin/Exams/new-exam/new-exam.component';
+import { NewExamComponent } from './Component/admin/exams/new-exam/new-exam.component';
 import { HomeComponent } from './Component/home/home.component';
 import { ScheduledexamsComponent } from './Component/admin/exams/scheduledexams/scheduledexams.component';
 import { StudentComponent } from './Component/student/student.component';
-import { StudentExamsComponent } from './Component/Student/student-exams/student-exams.component';
+import { StudentExamsComponent } from './Component/student/student-exams/student-exams.component';
 import { AdminloginComponent } from './Component/adminlogin/adminlogin.component';
 import { AttemptexamComponent } from './Component/student/attemptexam/attemptexam.component';
 import { StaffsalaryComponent } from './Component/admin/staffsalary/staffsalary.component';
@@ -57,8 +57,8 @@ import { DisplaygradesComponent } from './Component/student/displaygrades/displa
 
 
 
-import { StudenthomeComponent } from './component/student/studenthome/studenthome.component';
-import { TeacherhomeComponent } from './component/teacher/teacherhome/teacherhome.component';
+import { StudenthomeComponent } from './Component/student/studenthome/studenthome.component';
+import { TeacherhomeComponent } from './Component/teacher/teacherhome/teacherhome.component';
 import { TestimonialsComponent } from './Component/testimonials/testimonials.component';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { FooterComponent } from './Component/footer/footer.component';
