@@ -23,7 +23,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:application",
           "options": {
-            "outputPath": "dist/StudentManagementSystem/browser
+            "outputPath": "dist/StudentManagementSystem
 
 ",
             "index": "src/index.html",
