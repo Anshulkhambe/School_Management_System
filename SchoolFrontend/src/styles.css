@@ -2,7 +2,7 @@
 
 /* All @import rules must come first */
 @import '@fortawesome/fontawesome-free/css/all.css';
-@import 'mdb-angular-ui-kit/assets/scss/mdb.scss';
+@import 'mdb-angular-ui-kit/mdb.scss';
 
 
 html, body {
